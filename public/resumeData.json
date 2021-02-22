@@ -99,16 +99,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Pokemon Game (collaboration with classmates)",
+        "title":"ADDING SOON",
         "category":"",
         "image":"",
-        "url":"https://gabrielejm.github.io/Pokmon-Battle-Royale/"
-      },
-      {
-        "title":"Videogame Playlist (collaboration with classmates)",
-        "category":"",
-        "image":"",
-        "url":"https://videogame-playlist.herokuapp.com/login.html" 
+        "url":""
       }
     ]
   },
